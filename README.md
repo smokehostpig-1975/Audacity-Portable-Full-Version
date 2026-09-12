@@ -238,3 +238,6 @@ This repository serves as the official landing page for Audacity Portable. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Audacity Portable today!**
+
+---
+**Last updated:** 2026-09-12 08:12:21 UTC
