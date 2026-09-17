@@ -240,4 +240,4 @@ This repository serves as the official landing page for Audacity Portable. The s
 **Get the most recent version of Audacity Portable today!**
 
 ---
-**Last updated:** 2026-09-17 15:21:39 UTC
+**Last updated:** 2026-09-17 19:23:43 UTC
